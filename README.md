@@ -56,9 +56,9 @@ India vs Australia: Match Highlights
 
  📷 Screenshot
 
-![Headline Scraper Screenshot](images/webscraper.png)
+![Headline Scraper Screenshot](images/webscraper.png).
 
-![Headline Scraper Screenshot](images/webscraper1.png)
+![Headline Scraper Screenshot](images/webscraper1.png).
 
 
 Notes
